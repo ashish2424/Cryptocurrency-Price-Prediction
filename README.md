@@ -1,4 +1,4 @@
-# Cryptocurrency-Price-Prediction 
+# Cryptocurrency-Price-Prediction using Machine Learning
 ![maxresdefault](https://user-images.githubusercontent.com/68649622/209811133-f92e9738-55c0-4206-9bcc-7cc2abfb8001.jpg)
 
 
